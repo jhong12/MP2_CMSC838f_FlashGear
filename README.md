@@ -8,6 +8,7 @@ The 'Arduino_time' is Arduino code working wihout 9DOF IMU sensor. It regulary t
 
 ## How to run
 You can download one of the two directories.
+
 1) Arduino_sensor
 Open Razor_AHRS.ino file and upload to Arduino UNO.
 
